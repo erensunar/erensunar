@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kemal Eren Sunar</h1>
 <h3 align="center">Python Developer and Freelancer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erensunar&label=Profile%20views&color=0e75b6&style=flat" alt="erensunar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erensunar" alt="erensunar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ernsunar" target="blank"><img src="https://img.shields.io/twitter/follow/ernsunar?logo=twitter&style=for-the-badge" alt="ernsunar" /></a> </p>
 
 - 🌱 I currently provide **trading bot** services as a freelancer.
