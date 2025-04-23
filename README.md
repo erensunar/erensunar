@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ernsunar" target="blank"><img src="https://img.shields.io/twitter/follow/ernsunar?logo=twitter&style=for-the-badge" alt="ernsunar" /></a> </p>
 
-- 🌱 I currently provide **trading bot** services as a freelancer.
+- 🌱 I currently provide **financial system** services as a freelancer.
 
 - 💬 Ask me about **python**
 
